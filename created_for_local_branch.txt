@@ -1,1 +1,6 @@
 Adding this file for local branch, not for master. But, I can't tell differences of those two..
+
+Now, after the trial.
+I created a "local" branch from master.
+Added (commit) a file to local.
+In GitHub site, I "merged" a pull request from myself in local.
