@@ -1,1 +1,0 @@
-This text is 3rd readme, which was created on local cloned repository.
